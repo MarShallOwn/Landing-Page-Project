@@ -99,7 +99,7 @@ ul li:active{
 /* home page */
 
 #home{
-    background-image: url("home-background.jpg");
+    background-image: url("images/home-background.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
