@@ -64,7 +64,7 @@ navbarButton.addEventListener('click', () => {
                 })
                 navbarAnchor.children[i].innerHTML = words[i];
             }
-        }, 300);
+        }, 600);
         
         mainContainer.style.marginLeft = "8%";
         navbarButton.innerHTML = "<i class='fas fa-times'></i>";
